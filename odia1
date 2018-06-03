@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"ନମସ୍କାର"<<endl;
+	cout<<"ମୁ ଆପଣଂକୁ କି ସାହାଯ୍ୟ କରିପାରେ?"<<endl;
+	cout<<"ଦୟାକରି ଏଠାରେ ଅପେକ୍ଷା କରନ୍ତୁ ।"<<endl;
+	return 0;
+}
